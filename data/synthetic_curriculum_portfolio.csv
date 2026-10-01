@@ -1,0 +1,19 @@
+product_id,title,topic,format,delivery_mode,lifecycle_stage,launch_date,registrations,attendees,completion_rate,satisfaction_score,last_refresh_date
+LP001,Applied AI Foundations,AI & Technology,Half-Day,Virtual,Active,2025-02-14,186,102,0.88,4.5,2026-04-12
+LP002,Prompting for Strategic Work,AI & Technology,Micro,Virtual,Active,2026-01-23,244,131,0.91,4.6,2026-07-09
+LP003,Responsible AI Decisions,AI & Technology,Burst,Virtual,Active,2025-09-18,129,72,0.86,4.4,2026-02-20
+LP004,Measurement Strategy,Data & Measurement,Half-Day,Virtual,Active,2024-11-07,138,79,0.84,4.3,2025-06-15
+LP005,Dashboard Storytelling,Data & Measurement,Micro,Virtual,Active,2026-03-05,171,96,0.89,4.5,2026-03-05
+LP006,Experiment Design for Marketers,Data & Measurement,Full-Day,In Person,Refresh,2024-05-17,63,39,0.82,4.2,2024-05-17
+LP007,Brand Strategy Essentials,Brand Strategy,Half-Day,Virtual,Active,2025-03-21,117,61,0.85,4.4,2025-11-02
+LP008,Human-Centered Brand Growth,Brand Strategy,Mastery,Virtual,Active,2025-10-03,81,54,0.93,4.7,2026-06-18
+LP009,Creative Briefs That Work,Creative,Micro,Virtual,Active,2026-02-12,203,119,0.90,4.6,2026-02-12
+LP010,Creative Effectiveness Lab,Creative,Half-Day,In Person,Active,2025-06-26,88,57,0.87,4.5,2026-01-10
+LP011,Agency Relationship Management,Marketing Operations,Half-Day,Virtual,Refresh,2024-08-08,72,38,0.78,4.0,2024-08-08
+LP012,Marketing Procurement Fundamentals,Marketing Operations,Full-Day,In Person,Active,2025-01-16,56,34,0.83,4.3,2025-10-19
+LP013,Customer Journey Blueprint,Customer Experience,Micro,Virtual,Active,2026-06-04,218,124,0.92,4.6,2026-06-04
+LP014,Experience Measurement,Customer Experience,Half-Day,Virtual,Pilot,2026-08-20,94,52,0.88,4.4,2026-08-20
+LP015,Executive Communication,Leadership,Half-Day,Virtual,Active,2025-04-10,108,67,0.90,4.7,2026-05-14
+LP016,Collaborative Communication,Leadership,Mastery,In Person,Active,2025-11-13,49,36,0.95,4.8,2026-07-21
+LP017,Crisis Communications,Communications,Burst,Virtual,Pilot,2026-09-03,112,64,0.87,4.5,2026-09-03
+LP018,Content Strategy Systems,Communications,Full-Day,Virtual,Refresh,2024-03-28,51,27,0.76,4.1,2024-03-28

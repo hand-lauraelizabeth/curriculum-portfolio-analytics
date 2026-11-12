@@ -4,6 +4,8 @@
 
 A synthetic portfolio-management example showing how curriculum and learning-product data can be structured for decision support.
 
+**Related website project:** [Portfolio Decision Engine](https://www.lauraelizabethhand.com/project/portfolio-decision-engine/) presents a separate synthetic prioritization workbook; this repository is not its source file.
+
 This repository models a training portfolio across formats, topics, delivery modes, lifecycle stages, and utilization signals. All data are synthetic and created for demonstration only.
 
 ## Results at a glance
